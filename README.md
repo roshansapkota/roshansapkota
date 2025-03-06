@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Ram Gupta!
+## 👋 Hello, I'm Roshan Sapkota!
 🚀 **Facilitator | [Your Expertise] | [Your Passion]**
  
 🔹 Passionate about **[mention key skills/topics]**  
@@ -44,11 +44,10 @@
 ---
  
 ### 📢 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sapkotaroshan/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sapkotaroshan.com)
  
-📫 **Email:** your.email@example.com  
+📫 **Email:** sapkoroshan@gmail.com || rsapkota@lakeheadu.ca || roshansapkota@outlook.com 
  
 ---
  
