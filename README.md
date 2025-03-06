@@ -45,7 +45,7 @@
  
 ### 📢 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sapkotaroshan/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sapkotaroshan.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sapkotaroshan.com.np)
  
 📫 **Email:** sapkoroshan@gmail.com || rsapkota@lakeheadu.ca || roshansapkota@outlook.com 
  
