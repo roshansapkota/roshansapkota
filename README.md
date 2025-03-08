@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Roshan Sapkota!
 🚀 **Facilitator | [Python(Keras,TensorFlow,Gurobi)] | [Machine Learning]**
  
-🔹 Passionate about **Deep Learning**  
+🔹 Passionate about **Deep Learning, Trasfer Learning**  
 🔹 Currently working on **[project name or company name]**  
 🔹 Open to collaborating on **[mention types of projects]**  
 🔹 Learning **[any new technology or skill you're exploring]**  
