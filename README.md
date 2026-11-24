@@ -17,23 +17,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  
 
----
- 
-### 🚀 Featured Projects
-#### 📌 [Project Name 1](https://github.com/yourusername/project1)
-⭐ **Description:** Short description of the project.  
-🔧 **Tech Stack:** Python, Flask, PostgreSQL  
-📸 **Preview:**  
-![Project Preview](https://via.placeholder.com/600x300)  
-📂 **Repo:** [GitHub](https://github.com/yourusername/project1)  
- 
-#### 📌 [Project Name 2](https://github.com/yourusername/project2)
-⭐ **Description:** Another short description.  
-🔧 **Tech Stack:** React, Node.js, MongoDB  
-📸 **Preview:**  
-![Project Preview](https://via.placeholder.com/600x300)  
-📂 **Repo:** [GitHub](https://github.com/yourusername/project2)  
- 
+
 ---
  
 ### 📢 Connect with Me
