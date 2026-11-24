@@ -2,9 +2,9 @@
 🚀 **Facilitator | [Python(Keras,TensorFlow,Gurobi)] | [Machine Learning]**
  
 🔹 Passionate about **Deep Learning, Transfer Learning**  
-🔹 Currently working on 127.0.0.1.**
-🔹 Open to collaborating**
-🔹 Still Learning**
+🔹 Currently working on 127.0.0.1.
+🔹 Open to collaborating
+🔹 Still Learning
  
 ---
  
